@@ -13,3 +13,4 @@
 **Finding:** High diversity across conditions and hospitals, no single dominant pattern.
 
 2. Analyzed the same dataset using MS Excel and also made a few pivot tables and charts to understand the data better.
+3. Made a dashboard using Power Bi showing some charts for visual represwentation of the data
